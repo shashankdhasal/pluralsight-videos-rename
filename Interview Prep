@@ -1,0 +1,68 @@
+
+C#
+  sealed class
+  assembly.getexecutingassembly()
+  nested classes and output
+  reflection
+  Extension methods
+  wcf services change return type (bindings)
+  binding types (security wshttpbinding, etc)
+  how to convert wcf to restful
+  abstract class interface
+  static constructor
+
+solid
+delegates
+ASP.Net MVC
+Javascript 
+jquery
+LINQ
+
+
+
+-----------ASP.Net-----------------------
+OOPS,etc
+access spcifiers
+interfaces, abstract class
+virtual, override, new, base and their use in inheritance
+difference between a==b & a.Equals(b)
+is string value type or reference type
+garbage collection
+static constructor
+finalize vs dispose
+try catch finally
+extension methods
+delegates
+nullable data types (?)
+ASP.net MVC (describe each folder in the solution structure)
+WebApi, WCF
+entity framework (data first, code first, etc)
+Repository Pattern
+LINQ
+
+
+
+-----------Client side technologies----------
+Javascript
+Jquery
+Css
+knockoutJs
+angularJS
+
+
+
+
+-----------Database--------------------------
+All Joins
+stored procedures  vs  functions
+Views
+indexing (clustered, non-clustered)
+Drop vs Delete (which can be rolled back)
+Normalizing the database
+Get 2nd higest number query.
+ACID properties
+
+------------Misc--------------
+Design patterns
+Build and release questions
+Solid princilpes
