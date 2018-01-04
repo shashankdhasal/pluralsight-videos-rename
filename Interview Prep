@@ -1,13 +1,19 @@
+.net framework -  http://vb.net-informations.com/framework/framework_tutorials.htm
+
+
 
 C#
   sealed class
   assembly.getexecutingassembly()
+  Assembly Versioning
   nested classes and output
   reflection
+  generics
   Extension methods
   wcf services change return type (bindings)
   binding types (security wshttpbinding, etc)
   how to convert wcf to restful
+  what is restful service
   abstract class interface
   static constructor
 
@@ -18,9 +24,6 @@ Javascript
 jquery
 LINQ
 
-
-
------------ASP.Net-----------------------
 OOPS,etc
 access spcifiers
 interfaces, abstract class
