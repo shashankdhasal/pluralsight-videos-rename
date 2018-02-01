@@ -9,21 +9,29 @@ C#
   nested classes and output
   reflection
   generics
+  var vs dynamic
+  const vs readonly
   Extension methods
-  wcf services change return type (bindings)
-  binding types (security wshttpbinding, etc)
-  how to convert wcf to restful
+  static keyword
+  const vs readonly
+  
   what is restful service
   abstract class interface
   static constructor
 
-solid
+solid - https://www.codeproject.com/Articles/703634/SOLID-architecture-principles-using-simple-Csharp
 delegates
+Session Management
 ASP.Net MVC
 Javascript 
 jquery
 LINQ
 
+pass by value, pass by refrence
+optional parameters
+ref vs out keyword
+properties vs variables
+yield
 OOPS,etc
 access spcifiers
 interfaces, abstract class
@@ -37,8 +45,8 @@ try catch finally
 extension methods
 delegates
 nullable data types (?)
-ASP.net MVC (describe each folder in the solution structure)
-WebApi, WCF
+ASP.net MVC (describe each folder in the solution structure, Life cycle, Action filters)
+WebApi
 entity framework (data first, code first, etc)
 Repository Pattern
 LINQ
@@ -51,7 +59,7 @@ Jquery
 Css
 knockoutJs
 angularJS
-
+Cookie / session / application
 
 
 
@@ -61,6 +69,7 @@ stored procedures  vs  functions
 Views
 indexing (clustered, non-clustered)
 Drop vs Delete (which can be rolled back)
+Delete vs truncate
 Normalizing the database
 Get 2nd higest number query.
 ACID properties
