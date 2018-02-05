@@ -59,6 +59,10 @@ public partial class Employee
         [Required]
         [Range(0, Int32.MaxValue, ErrorMessage = "Only Numeric values are accepted.")]
         public int? Salary { get; set; }
+        [Required]
+        [RegularExpression("^[0-9]*$", ErrorMessage = "Only Numbers allowed")]
+        [MaxLength(10)]
+        public string Phone { get; set; }
     }
 
 =======Index View search with validations========
