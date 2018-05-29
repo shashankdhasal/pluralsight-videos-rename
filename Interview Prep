@@ -47,7 +47,7 @@ extension methods
 delegates
 nullable data types (?)
 ASP.net MVC (describe each folder in the solution structure, Life cycle, Action filters)
-WebApi
+WebApi - Authentication in WebApi
 entity framework (data first, code first, etc)
 Repository Pattern
 LINQ
