@@ -79,3 +79,5 @@ ACID properties
 Design patterns
 Build and release questions
 Solid princilpes
+Singleton pattern
+Dependency injection (constructor and unity)
