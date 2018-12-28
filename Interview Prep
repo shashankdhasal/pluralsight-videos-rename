@@ -71,6 +71,7 @@ Views
 indexing (clustered, non-clustered)
 Drop vs Delete (which can be rolled back)
 Delete vs truncate
+Rank(), Dense_Rank(), Row_Number()
 Normalizing the database
 Get 2nd higest number query.
 ACID properties
