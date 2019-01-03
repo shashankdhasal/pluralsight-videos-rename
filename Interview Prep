@@ -69,6 +69,7 @@ All Joins
 stored procedures  vs  functions
 Views
 indexing (clustered, non-clustered)
+Cursor, trigger
 Drop vs Delete (which can be rolled back)
 Delete vs truncate
 Rank(), Dense_Rank(), Row_Number()
