@@ -33,7 +33,7 @@ optional parameters
 ref vs out keyword
 properties vs variables
 yield
-OOPS,etc
+OOPS,etc  // https://www.c-sharpcorner.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/
 access spcifiers
 interfaces, abstract class
 virtual, override, new, base and their use in inheritance
