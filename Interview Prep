@@ -23,10 +23,10 @@ solid - https://www.codeproject.com/Articles/703634/SOLID-architecture-principle
 delegates
 State Management https://www.codeproject.com/Articles/492397/State-Management-in-ASP-NET-Introduction
 Session Management
-ASP.Net MVC
+ASP.Net MVC - parked
 Javascript 
 jquery
-LINQ
+LINQ  - parked
 
 pass by value, pass by refrence
 optional parameters
