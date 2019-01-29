@@ -30,7 +30,7 @@ LINQ  - parked
 
 pass by value, pass by refrence
 optional parameters
-ref vs out keyword
+ref vs out keyword  // why pass objects by ref key word i.e. reference type by ref
 properties vs variables
 yield
 OOPS,etc  // https://www.c-sharpcorner.com/UploadFile/cda5ba/object-oriented-programming-with-real-world-scenario/
