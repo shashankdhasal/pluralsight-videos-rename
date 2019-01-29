@@ -51,6 +51,7 @@ WebApi - Authentication in WebApi
 entity framework (data first, code first, etc)
 Repository Pattern
 LINQ
+IEnumerable vs IQuerable
 
 
 
