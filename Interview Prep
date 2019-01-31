@@ -83,5 +83,5 @@ ACID properties
 Design patterns
 Build and release questions
 Solid princilpes
-Singleton pattern
+Singleton pattern  // https://www.c-sharpcorner.com/UploadFile/8911c4/singleton-design-pattern-in-C-Sharp/
 Dependency injection (constructor and unity)
