@@ -6,7 +6,7 @@ C#
   sealed class
   assembly.getexecutingassembly()
   Assembly Versioning
-  nested classes and output
+  nested classes and output  // https://www.codeproject.com/Articles/816448/Virtual-vs-Override-vs-New-Keyword-in-Csharp
   reflection
   generics
   var vs dynamic
